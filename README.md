@@ -1,1 +1,2 @@
 # Netflix-Clone
+This is the final draft of my Netflix clone project, completed in approximately 6 hours from scratch. Compared to the initial version, this iteration is a significant improvement:  Responsiveness: The layout is now fully responsive and looks great on all screen sizes. Video Playback: Videos now play correctly, enhancing the user experience. Improved Design: The overall aesthetics have been polished for a more professional look. I'm proud of the progress I've made and how much better this version performs and looks compared to the previous one.
